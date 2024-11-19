@@ -1,3 +1,2 @@
 # playlist
-Músicas da minha playlist https://maricvsmrs.github.io/pque indico.
-laylist/
+Músicas da minha que indico. playlist https://maricvsmrs.github.io/playlist/
